@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="baf77053-88bd-4513-8f51-7425d1ab3c04" name="Changes" comment="add index.htmljj">
+    <list default="true" id="baf77053-88bd-4513-8f51-7425d1ab3c04" name="Changes" comment="create first project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,12 +28,12 @@
     &quot;assignee&quot;: &quot;Wgjamia&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Wgjamia/twakite-salha.git",
-    "accountId": "e27e87a5-04cf-41d6-a4bc-37fffc1cc55c"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Wgjamia/twakite-salha.git&quot;,
+    &quot;accountId&quot;: &quot;e27e87a5-04cf-41d6-a4bc-37fffc1cc55c&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -45,6 +45,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/wgjamia/TypeScript-Training/twakite-salha/src/components&quot;,
@@ -99,6 +100,8 @@
       <option name="presentableId" value="Default" />
       <updated>1735323565918</updated>
       <workItem from="1735323570680" duration="14007000" />
+      <workItem from="1735343253647" duration="1983000" />
+      <workItem from="1735374934559" duration="750000" />
     </task>
     <task id="LOCAL-00001" summary="add index.html">
       <option name="closed" value="true" />
@@ -124,14 +127,34 @@
       <option name="project" value="LOCAL" />
       <updated>1735342772818</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="create first project">
+      <option name="closed" value="true" />
+      <created>1735344062334</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735344062334</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="add index.html" />
+    <MESSAGE value="create first project" />
+    <option name="LAST_COMMIT_MESSAGE" value="create first project" />
   </component>
 </project>
